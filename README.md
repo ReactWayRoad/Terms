@@ -7,6 +7,8 @@ You tell libraries what to do, frameworks tell you what to do.
 A library is a collection of prewritten code that can be used to simplify tasks(classes, functions  
 A framework is a structure in which the application defines the content of the operation by asking the developer to fill in the spaces.
 
+https://habr.com/ru/company/yandex_praktikum/blog/533702/
+
 https://www.programcreek.com/2011/09/what-is-the-difference-between-a-java-library-and-a-framework/#:~:text=The%20key%20difference%20between%20a,a%20collection%20of%20class%20definitions.
 
 https://sofienebk.medium.com/what-is-the-difference-between-a-framework-and-library-2b712a1a1c41  
