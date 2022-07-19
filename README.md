@@ -4,8 +4,13 @@
 
 The key difference between a library and a framework is "Inversion of Control".   
 You tell libraries what to do, frameworks tell you what to do.  
-A library is a collection of prewritten code that can be used to simplify tasks(classes, functions  
-A framework is a structure in which the application defines the content of the operation by asking the developer to fill in the spaces.
+A **library** is a collection of prewritten code that can be used to simplify tasks(classes, functions  
+A **framework** is a structure in which the application defines the content of the operation by asking the developer to fill in the spaces.
+
+jQuery — набор функций для манипуляций с DOM, работы с событиями и модуль для клиент-серверного взаимодействия.  
+D3 — библиотека для создания визуализаций с использованием SVG.  
+React — A JavaScript library for building user interfaces
+
 
 https://habr.com/ru/company/yandex_praktikum/blog/533702/
 
